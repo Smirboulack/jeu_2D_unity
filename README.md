@@ -1,5 +1,6 @@
 # jeu_2D_unity
 Premier jeu 2D avec unity 
 
-Avant de pouvoir lancer le jeu , veillez à bien avoir installé Unity sur votre machine puis aller dans Builds et lancer : Mon_premier_projet_2D.exe 
+
+Avant de lancer le jeu, il est important de vérifier que vous avez installé Unity sur votre machine. Ensuite, dirigez-vous vers le dossier "Builds" et exécutez le fichier "Mon_premier_projet_2D.exe".
 
